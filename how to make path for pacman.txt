@@ -1,0 +1,4 @@
+// windows -> spacebar -> Paint (그림판)
+// open path.png file.
+// choose red color & pen
+// draw a path, store it, and make a thin red path .png file with pixlr.
